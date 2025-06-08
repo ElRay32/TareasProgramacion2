@@ -1,0 +1,15 @@
+C:\Dev\TareasProgramacion2\Tarea1\bin\Debug\net8.0\Tarea1.exe
+C:\Dev\TareasProgramacion2\Tarea1\bin\Debug\net8.0\Tarea1.deps.json
+C:\Dev\TareasProgramacion2\Tarea1\bin\Debug\net8.0\Tarea1.runtimeconfig.json
+C:\Dev\TareasProgramacion2\Tarea1\bin\Debug\net8.0\Tarea1.dll
+C:\Dev\TareasProgramacion2\Tarea1\bin\Debug\net8.0\Tarea1.pdb
+C:\Dev\TareasProgramacion2\Tarea1\obj\Debug\net8.0\Tarea1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\TareasProgramacion2\Tarea1\obj\Debug\net8.0\Tarea1.AssemblyInfoInputs.cache
+C:\Dev\TareasProgramacion2\Tarea1\obj\Debug\net8.0\Tarea1.AssemblyInfo.cs
+C:\Dev\TareasProgramacion2\Tarea1\obj\Debug\net8.0\Tarea1.csproj.CoreCompileInputs.cache
+C:\Dev\TareasProgramacion2\Tarea1\obj\Debug\net8.0\Tarea1.sourcelink.json
+C:\Dev\TareasProgramacion2\Tarea1\obj\Debug\net8.0\Tarea1.dll
+C:\Dev\TareasProgramacion2\Tarea1\obj\Debug\net8.0\refint\Tarea1.dll
+C:\Dev\TareasProgramacion2\Tarea1\obj\Debug\net8.0\Tarea1.pdb
+C:\Dev\TareasProgramacion2\Tarea1\obj\Debug\net8.0\Tarea1.genruntimeconfig.cache
+C:\Dev\TareasProgramacion2\Tarea1\obj\Debug\net8.0\ref\Tarea1.dll
