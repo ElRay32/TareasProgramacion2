@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiCrudApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3534384d9a25be6f0ba0dc8bea8014b08c2df8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73e39a48117c9200b3f3aa9511683dabb6b0d9ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiCrudApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiCrudApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
